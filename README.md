@@ -1,1 +1,1 @@
-# [GPT Toolkit React NodeJS API]
+# GPT Toolkit React NodeJS API
